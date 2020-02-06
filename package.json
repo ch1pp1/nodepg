@@ -1,0 +1,23 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Villarubia-problem1": "node Villarubia-problem1.js",
+    "Villarubia-problem2": "node Villarubia-problem2.js",
+    "Villarubia-problem3": "node Villarubia-problem3.js",
+    "Villarubia-problem4": "node Villarubia-problem4.js",
+    "Villarubia-problem5": "node Villarubia-problem5.js",
+    "Villarubia-problem6": "node Villarubia-problem6.js",
+    "Villarubia-problem7": "node Villarubia-problem7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
